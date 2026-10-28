@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FreshRSS is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://freshrss.org/
+FreshRSS is a free, self‑hostable RSS and Atom feed aggregator. It is lightweight, powerful, and customizable, supporting multi‑user setups, extensions, WebSub push, and a Google‑Reader‑compatible API for mobile clients. The project is open‑source under AGPL‑3, with extensive documentation, demo instance, and community support.
+
+**Areas:** RSS Aggregator · Self‑Hosted Software · Feed Reader · Web Scraping · OPML · WebSub · Open Source
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://freshrss.org/)
+- [Changelog](https://github.com/FreshRSS/FreshRSS/releases/latest)
+- [GitHub](https://github.com/FreshRSS)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/freshrss/](https://apis.io/providers/freshrss/).
